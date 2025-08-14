@@ -16,7 +16,7 @@ A web-based system for managing sales, inventory, and users. This system allows 
 
 1. **Download or Clone** this repository:
    ```bash
-   git clone https://github.com/yourusername/sales-and-inventory-management-system.git
+   git clone https://github.com/property360-2/sales-and-inventory-management-system.git
 Open XAMPP and start Apache and MySQL.
 
 Import the Database:
